@@ -1,0 +1,6 @@
+# Ignora a pasta de providers do Terraform
+.terraform/
+
+# Ignora os arquivos de estado do Terraform
+*.tfstate
+*.tfstate.backup
